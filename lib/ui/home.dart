@@ -157,7 +157,7 @@ class MovieListViewDetails extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title:
-        Text("GoMOVIES", style: TextStyle(color: Colors.white, fontSize: 25,)),
+        Text("JTU", style: TextStyle(color: Colors.white, fontSize: 25,)),
         backgroundColor: _blue,
         centerTitle: false,
       ),
